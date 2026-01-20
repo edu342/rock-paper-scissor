@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+ .js-result, .js-moves, .js-score{
+  font-size: 27px;
+  margin: 16px;
+ } .rock, .paper, .scissor{
+    height: 60px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 60px;
+    height: 40px;
+    margin-right: 15px;
+    cursor:copy;
+ } 
+ .rest-score{
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 10px 10px;
+  cursor: copy;
+ }
